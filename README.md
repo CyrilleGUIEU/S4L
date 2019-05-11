@@ -16,9 +16,7 @@ A tool to include screenshots in a Latex document
 3. The paperclip contains the LaTex code to include the image.
 4. Go back to to step 3 if necessary
 
-Notes: 
--you can change the parameters (file paths, defaults names,shortcut...) in the script
--the best way to use it is to create a copy of the script in the image directory of the latex document
+
 **Notes:**
 * you can change the parameters (file paths, defaults names,shortcut...) in the script
 * the best way to use it is to create a copy of the script in the image directory of the latex document
