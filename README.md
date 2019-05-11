@@ -12,7 +12,7 @@ A tool to include screenshots in a Latex document
 
 **How to use it ?**
 1. Run the script in a (Python) shell 
-2. Make a screen shot by using the shortcut (ctrl+space by default) and choose a rectangle with the mouse in the frozen screen.
+2. Make a screen shot by using the shortcut (Print Screen by default) and choose a rectangle with the mouse in the frozen screen.
 3. The paperclip contains the LaTex code to include the image.
 4. Go back to to step 3 if necessary
 
