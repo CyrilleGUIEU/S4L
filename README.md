@@ -1,17 +1,9 @@
 # S4L
 A tool to include screenshots in a Latex document
 
-Dependencies:
--Python 3
-Python modules to install:
--pyperclip
--mss
--keyboard 
--PIL 
 **Dependencies:**
 *  Python 3
 
-How to use it ?
 **Python modules to install:**
 * pyperclip
 * mss
