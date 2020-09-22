@@ -10,7 +10,7 @@ A tool to include screenshots in a Latex document
 * pyperclip
 * mss
 * keyboard 
-* PIL 
+* Pillow
 
 **How to use it ?**
 1. Run the script S4L.py in a (Python) shell 
